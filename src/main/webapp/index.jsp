@@ -20,7 +20,7 @@
                                         <h3 class="panel-title">Login via site</h3>
                                         </div>
                                         <div class="panel-body">
-                                            <form accept-charset="UTF-8" role="form" action="/home.jsp" >
+                                            <form accept-charset="UTF-8" role="form" action="/home.jsp" method="post">
                         <fieldset>
                                         <div class="form-group">
                                             <input class="form-control" placeholder="yourmail@example.com" name="email" type="text">
